@@ -1,0 +1,292 @@
+{
+  "stand": "2026-11-11",
+  "vorsitz_titel": "Besetzungen seit 2013",
+  "zeitleiste_ab": 2013,
+  "wahlen": [
+    {
+      "jahr": 2013,
+      "datum": "2013-09-22",
+      "ergebnis": 4.7,
+      "sitze": 0,
+      "rolle": "Nicht im Bundestag",
+      "vorsitz": "Lucke / Petry / Adam"
+    },
+    {
+      "jahr": 2017,
+      "datum": "2017-09-24",
+      "ergebnis": 12.6,
+      "sitze": 94,
+      "rolle": "Opposition",
+      "vorsitz": "Petry / Meuthen"
+    },
+    {
+      "jahr": 2021,
+      "datum": "2021-09-26",
+      "ergebnis": 10.3,
+      "sitze": 83,
+      "rolle": "Opposition",
+      "vorsitz": "Meuthen / Chrupalla"
+    },
+    {
+      "jahr": 2025,
+      "datum": "2025-02-23",
+      "ergebnis": 20.8,
+      "sitze": 152,
+      "rolle": "Opposition",
+      "vorsitz": "Chrupalla / Weidel"
+    }
+  ],
+  "vorsitzende": [
+    {
+      "nr": 1,
+      "name": "Bernd Lucke / Frauke Petry / Konrad Adam",
+      "beginn": "2013-04-14",
+      "ende": "2015-07-04"
+    },
+    {
+      "nr": 2,
+      "name": "Frauke Petry / Jörg Meuthen",
+      "beginn": "2015-07-04",
+      "ende": "2017-09-29"
+    },
+    {
+      "nr": 3,
+      "name": "Jörg Meuthen",
+      "beginn": "2017-09-29",
+      "ende": "2017-12-02"
+    },
+    {
+      "nr": 4,
+      "name": "Jörg Meuthen / Alexander Gauland",
+      "beginn": "2017-12-02",
+      "ende": "2019-11-30"
+    },
+    {
+      "nr": 5,
+      "name": "Jörg Meuthen / Tino Chrupalla",
+      "beginn": "2019-11-30",
+      "ende": "2022-01-28"
+    },
+    {
+      "nr": 6,
+      "name": "Tino Chrupalla",
+      "beginn": "2022-01-28",
+      "ende": "2022-06-18"
+    },
+    {
+      "nr": 7,
+      "name": "Tino Chrupalla / Alice Weidel",
+      "beginn": "2022-06-18",
+      "ende": null
+    }
+  ],
+  "zeitleiste": [
+    {
+      "spur": "Rolle im Bund",
+      "label": "Nicht im Bundestag",
+      "von": "2013-02",
+      "bis": "2017-10",
+      "status": "Nicht im Bundestag"
+    },
+    {
+      "spur": "Rolle im Bund",
+      "label": "Opposition",
+      "von": "2017-10",
+      "bis": null,
+      "status": "Opposition"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Lucke/Petry/Adam",
+      "von": "2013-04",
+      "bis": "2015-07",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Petry/Meuthen",
+      "von": "2015-07",
+      "bis": "2017-09",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Meuthen",
+      "von": "2017-09",
+      "bis": "2017-12",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Meuthen/Gauland",
+      "von": "2017-12",
+      "bis": "2019-11",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Meuthen/Chrupalla",
+      "von": "2019-11",
+      "bis": "2022-01",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Chrupalla",
+      "von": "2022-01",
+      "bis": "2022-06",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Chrupalla/Weidel",
+      "von": "2022-06",
+      "bis": null,
+      "status": "laufend"
+    },
+    {
+      "spur": "Grundsatzprogramm",
+      "label": "Stuttgart 2016",
+      "von": "2016-05",
+      "bis": null,
+      "status": "laufend"
+    }
+  ],
+  "verfassungsschutz": {
+    "stand": "2026-11-11",
+    "aktuell": "Die Bundes-AfD ist rechtskräftig als rechtsextremistischer Verdachtsfall eingestuft (Bundesverwaltungsgericht, Beschluss vom 20.05.2025). Die Hochstufung zur „gesichert rechtsextremistischen Bestrebung“ vom 02.05.2025 darf das Bundesamt für Verfassungsschutz nach einem Eilbeschluss des Verwaltungsgerichts Köln vom 26.02.2026 vorläufig nicht anwenden und nicht bekanntgeben. Das Hauptsacheverfahren beim Verwaltungsgericht Köln ist offen; bis zum Stichtag wurde keine Entscheidung gefunden.",
+    "schritte": [
+      {
+        "datum": "2022-03-08",
+        "stelle": "VG Köln",
+        "schritt": "Urteil: Das Bundesamt für Verfassungsschutz darf die AfD als Verdachtsfall einstufen.",
+        "rechtsstand": "Von der AfD angefochten; in zweiter Instanz bestätigt (siehe 13.05.2024)."
+      },
+      {
+        "datum": "2024-05-13",
+        "stelle": "OVG NRW (Münster)",
+        "schritt": "Berufungsurteil: Einstufung und Beobachtung als Verdachtsfall sind rechtmäßig.",
+        "rechtsstand": "Revision nicht zugelassen; Nichtzulassungsbeschwerde der AfD erfolglos (siehe 20.05.2025)."
+      },
+      {
+        "datum": "2025-05-02",
+        "stelle": "Bundesamt für Verfassungsschutz",
+        "schritt": "Hochstufung der AfD zur „gesichert rechtsextremistischen Bestrebung“, öffentlich bekanntgegeben.",
+        "rechtsstand": "Klage und Eilantrag der AfD beim VG Köln (05.05.2025). Das Bundesamt sagte zu, die AfD bis zur Eilentscheidung weiter als Verdachtsfall zu behandeln."
+      },
+      {
+        "datum": "2025-05-20",
+        "stelle": "Bundesverwaltungsgericht",
+        "schritt": "Nichtzulassungsbeschwerden der AfD zurückgewiesen (6 B 21.24, 6 B 22.24, 6 B 23.24), bekannt seit 22.07.2025.",
+        "rechtsstand": "Verdachtsfall-Einstufung rechtskräftig. Laut Pressebericht vom 22.08.2025 hat die AfD Verfassungsbeschwerde eingelegt; eine Entscheidung ist nicht bekannt (nur eine Quelle, nicht ausreichend belegt)."
+      },
+      {
+        "datum": "2026-02-26",
+        "stelle": "VG Köln",
+        "schritt": "Eilbeschluss (13 L 1109/25): Das Bundesamt darf die AfD vorläufig nicht als gesichert rechtsextremistische Bestrebung einstufen, behandeln oder so bezeichnen.",
+        "rechtsstand": "Gilt bis zum Abschluss des Hauptsacheverfahrens (13 K 3895/25) in erster Instanz. Laut Bundesinnenministerium keine Beschwerde (dpa, 02.03.2026; nur eine Quelle). Hauptsache offen."
+      }
+    ]
+  },
+  "belege": {
+    "wahlen": [
+      {
+        "name": "Deutscher Bundestag: Wahlergebnisse seit 1949",
+        "url": "https://www.bundestag.de/parlament/wahlen/ergebnisse_seit1949-244692"
+      },
+      {
+        "name": "wahlrecht.de: Bundestagswahlen (Prozente und Sitze)",
+        "url": "https://www.wahlrecht.de/ergebnisse/bundestag.htm"
+      }
+    ],
+    "zeitleiste": [
+      {
+        "name": "bpb: Etappen der Parteigeschichte der AfD (Frank Decker, 16.05.2026)",
+        "url": "https://www.bpb.de/themen/parteien/parteien-in-deutschland/afd/273130/etappen-der-parteigeschichte-der-afd/"
+      },
+      {
+        "name": "Wikipedia (en): Alternative for Germany",
+        "url": "https://en.wikipedia.org/wiki/Alternative_for_Germany"
+      }
+    ],
+    "vorsitz": [
+      {
+        "name": "bpb: Etappen der Parteigeschichte der AfD (16.05.2026)",
+        "url": "https://www.bpb.de/themen/parteien/parteien-in-deutschland/afd/273130/etappen-der-parteigeschichte-der-afd/"
+      },
+      {
+        "name": "ZDF: Chrupalla und Weidel wiedergewählt (Erfurt, 04.07.2026)",
+        "url": "https://www.zdfheute.de/politik/deutschland/afd-parteitag-erfurt-chrupalla-weidel-100.html"
+      },
+      {
+        "name": "t-online/dpa: AfD wählt Meuthen und Gauland zur Doppelspitze (02.12.2017)",
+        "url": "https://www.t-online.de/nachrichten/deutschland/id_82819768/parteien-afd-waehlt-meuthen-und-gauland-zur-doppelspitze.html"
+      },
+      {
+        "name": "Al Jazeera: AfD picks new leaders (30.11.2019)",
+        "url": "https://www.aljazeera.com/news/2019/11/30/germanys-far-right-afd-picks-new-leaders-amid-protests"
+      },
+      {
+        "name": "AP/The Columbian: Co-leader leaves AfD (28.01.2022)",
+        "url": "https://www.columbian.com/news/2022/jan/28/co-leader-leaves-far-right-alternative-for-germany-party/"
+      },
+      {
+        "name": "The National: AfD elects new leaders (18.06.2022)",
+        "url": "https://thenationalnews.com/world/uk-news/2022/06/18/german-far-right-party-elects-new-leaders-after-co-chairman-quit-over-radical-policies"
+      },
+      {
+        "name": "Wikipedia (en): Frauke Petry, Bernd Lucke, Jörg Meuthen",
+        "url": "https://en.wikipedia.org/wiki/Frauke_Petry"
+      }
+    ],
+    "verfassungsschutz": [
+      {
+        "name": "VG Köln: Pressemitteilung zum Eilbeschluss vom 26.02.2026",
+        "url": "https://www.vg-koeln.nrw.de/behoerde/presse/Pressemitteilungen/05_26022026/index.php"
+      },
+      {
+        "name": "ZDF: AfD nicht gesichert rechtsextremistisch – vorerst (26.02.2026)",
+        "url": "https://www.zdfheute.de/politik/deutschland/afd-gericht-einstufung-rechtsextrem-100.html"
+      },
+      {
+        "name": "Tagesspiegel: AfD gewinnt in Eilverfahren (26.02.2026)",
+        "url": "https://www.tagesspiegel.de/politik/verwaltungsgericht-koln-hat-entschieden-afd-gewinnt-in-eilverfahren-um-einstufung-als-rechtsextrem-15296804.html"
+      },
+      {
+        "name": "Nordkurier/dpa: Keine Beschwerde gegen Entscheidung im Eilverfahren (02.03.2026)",
+        "url": "https://www.nordkurier.de/politik/keine-beschwerde-gegen-afd-entscheidung-im-eilverfahren-4403215"
+      },
+      {
+        "name": "LTO: BVerwG lässt keine Revision zu (22.07.2025)",
+        "url": "https://www.lto.de/recht/nachrichten/n/bverwg-6b2124-6b2224-6b2324-afd-einstufung-bfv-verdachtsfall"
+      },
+      {
+        "name": "ZDF: Gericht weist AfD-Beschwerde ab (22.07.2025)",
+        "url": "https://www.zdfheute.de/politik/deutschland/afd-bundesverwaltungsgericht-rechtsextremismus-verdachtsfall-100.html"
+      },
+      {
+        "name": "echo24: AfD zieht vor das Bundesverfassungsgericht (Stand 22.08.2025)",
+        "url": "https://www.echo24.de/welt/bundesverfassungsgericht-rechtsextremismus-verdachtsfall-afd-zieht-vor-zr-93894429.html"
+      },
+      {
+        "name": "OVG NRW: Pressemitteilungen 2024 (13.05.2024)",
+        "url": "https://www.ovg.nrw.de/behoerde/presse/pressemitteilungen/01_archiv/2024/index.php"
+      },
+      {
+        "name": "VG Köln: Pressemitteilungen 2022 (08.03.2022)",
+        "url": "https://www.vg-koeln.nrw.de/behoerde/presse/Pressemitteilungen/Archiv/2022/index.php"
+      }
+    ]
+  },
+  "belege_hinweis": {
+    "wahlen": "Zweitstimmen. Rolle: im Bundestag vertreten (Opposition) oder nicht, in der folgenden Wahlperiode. Vorsitz: Bundessprecher bzw. Bundesvorsitzende am Wahltag.",
+    "zeitleiste": "Nach Monaten gerundet. Grundsatzprogramm: Bundesparteitag Stuttgart, 30.04.–01.05.2016 (Wikipedia en; bpb: „im Mai 2016“). Die AfD war nie an einer Bundesregierung beteiligt.",
+    "vorsitz": "Die AfD wird von zwei, anfangs drei gleichberechtigten Bundessprechern geführt, seit 2022 „Bundesvorsitzende“ genannt. Ein Eintrag steht für eine Besetzung der Spitze; Wechsel durch Wahl auf Bundesparteitagen oder Austritt (Petry 2017, Meuthen 2022). Wiederwahlen ohne Personalwechsel (zuletzt Erfurt, 04.07.2026: Chrupalla 70,05 %, Weidel 81,31 %, ZDF) beginnen keine neue Besetzung. Daten 2013 und 2015 nach Wikipedia (en); Wikipedia nennt für Meuthens Amtsbeginn teils den 05.07.2015 (zweiter Parteitagstag), hier der Wahltag Petrys, 04.07.2015. Petrys Austritt: 29.09.2017 (Wikipedia en).",
+    "verfassungsschutz": "Betrifft die Bundespartei. Einstufungen einzelner Landesverbände durch Landesbehörden sind nicht dargestellt. Die Einstufung ist eine Verwaltungsentscheidung, kein Parteiverbot; über ein Verbot entscheidet nur das Bundesverfassungsgericht. Stichtag 11.11.2026: keine spätere Mitteilung von VG Köln oder OVG NRW zur Sache gefunden."
+  },
+  "spuren": [
+    "Rolle im Bund",
+    "Vorsitz",
+    "Grundsatzprogramm"
+  ]
+}
