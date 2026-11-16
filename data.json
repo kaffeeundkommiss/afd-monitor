@@ -1,5 +1,5 @@
 {
-  "erstellt": "2026-11-11T13:00+01:00",
+  "erstellt": "2026-11-16T09:53+02:00",
   "partei": "AfD",
   "ebenen": [
     {
@@ -23,9 +23,9 @@
       },
       "wahlergebnis": null,
       "wahltrend": {
-        "wert": 27.4,
-        "delta": -0.2,
-        "stand": "2026-11-10"
+        "wert": 27.5,
+        "delta": 0.1,
+        "stand": "2026-11-14"
       },
       "umfragen": {
         "stand": "2026-11-11T12:30:00+01:00",
