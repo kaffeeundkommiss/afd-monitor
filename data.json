@@ -100,8 +100,8 @@
         "wert": 43.8,
         "datum": "2026-09-06",
         "quelle": {
-          "name": "wahlrecht.de: Landtagswahl Sachsen-Anhalt 2026, endgültiges Ergebnis (43,79 %)",
-          "url": "https://wahlrecht.de/news/2026/landtagswahl-sachsen-anhalt-2026.html"
+          "name": "Landeswahlleiterin Sachsen-Anhalt: Endgültiges Ergebnis (Landeswahlausschuss 22.09.2026)",
+          "url": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt26/erg_land.html"
         }
       },
       "wahltrend": {
@@ -136,8 +136,8 @@
         "wert": 38.2,
         "datum": "2026-09-20",
         "quelle": {
-          "name": "Landesamt MV: Endgültiges Ergebnis der Landtagswahl 2026",
-          "url": "https://www.laiv-mv.de/Wahlen/Landtagswahlen/2026/Ergebnisse/"
+          "name": "Landeswahlleiter M-V: Endgültiges Ergebnis der Wahl zum 9. Landtag (Amtsblatt)",
+          "url": "https://www.laiv-mv.de/static/LAIV/Wahlen/L-Bekanntmachungen/LTW%202026/LTW%202026%20Endg%C3%BCltiges%20Ergebnis%20-%20Bekanntmachung%20Amtsblatt.pdf"
         }
       },
       "wahltrend": {
