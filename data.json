@@ -73,9 +73,325 @@
         ]
       },
       "verlauf": {
-        "stand": null,
+        "stand": "2026-11-21T18:49:22+01:00",
         "tage": 90,
-        "rows": []
+        "rows": [
+          {
+            "institut": "Forsa",
+            "datum": "2026-08-25",
+            "wert": 28.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-08-25",
+            "wert": 29.0
+          },
+          {
+            "institut": "Verian (Emnid)",
+            "datum": "2026-08-28",
+            "wert": 28.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-08-29",
+            "wert": 29.0
+          },
+          {
+            "institut": "Forsa",
+            "datum": "2026-09-01",
+            "wert": 28.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-09-01",
+            "wert": 29.0
+          },
+          {
+            "institut": "Ipsos",
+            "datum": "2026-09-02",
+            "wert": 27.0
+          },
+          {
+            "institut": "Infratest dimap",
+            "datum": "2026-09-03",
+            "wert": 27.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-09-05",
+            "wert": 28.0
+          },
+          {
+            "institut": "Forsa",
+            "datum": "2026-09-08",
+            "wert": 28.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-09-08",
+            "wert": 29.0
+          },
+          {
+            "institut": "pollytix",
+            "datum": "2026-09-08",
+            "wert": 29.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-09-12",
+            "wert": 29.0
+          },
+          {
+            "institut": "GMS",
+            "datum": "2026-09-14",
+            "wert": 30.0
+          },
+          {
+            "institut": "Forsa",
+            "datum": "2026-09-15",
+            "wert": 27.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-09-15",
+            "wert": 29.0
+          },
+          {
+            "institut": "YouGov",
+            "datum": "2026-09-15",
+            "wert": 29.0
+          },
+          {
+            "institut": "pollytix",
+            "datum": "2026-09-16",
+            "wert": 27.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-09-20",
+            "wert": 29.0
+          },
+          {
+            "institut": "Forsa",
+            "datum": "2026-09-22",
+            "wert": 27.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-09-22",
+            "wert": 29.5
+          },
+          {
+            "institut": "Allensbach",
+            "datum": "2026-09-24",
+            "wert": 28.0
+          },
+          {
+            "institut": "Forschungsgruppe Wahlen",
+            "datum": "2026-09-25",
+            "wert": 28.0
+          },
+          {
+            "institut": "Verian (Emnid)",
+            "datum": "2026-09-25",
+            "wert": 28.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-09-26",
+            "wert": 29.0
+          },
+          {
+            "institut": "Forsa",
+            "datum": "2026-09-29",
+            "wert": 26.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-09-29",
+            "wert": 29.5
+          },
+          {
+            "institut": "Infratest dimap",
+            "datum": "2026-10-01",
+            "wert": 27.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-10-03",
+            "wert": 30.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-10-05",
+            "wert": 30.5
+          },
+          {
+            "institut": "Forsa",
+            "datum": "2026-10-06",
+            "wert": 26.0
+          },
+          {
+            "institut": "Forschungsgruppe Wahlen",
+            "datum": "2026-10-08",
+            "wert": 28.0
+          },
+          {
+            "institut": "Ipsos",
+            "datum": "2026-10-08",
+            "wert": 28.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-10-11",
+            "wert": 30.0
+          },
+          {
+            "institut": "Forsa",
+            "datum": "2026-10-13",
+            "wert": 26.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-10-13",
+            "wert": 30.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-10-17",
+            "wert": 29.0
+          },
+          {
+            "institut": "GMS",
+            "datum": "2026-10-19",
+            "wert": 30.0
+          },
+          {
+            "institut": "Forsa",
+            "datum": "2026-10-20",
+            "wert": 27.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-10-20",
+            "wert": 30.0
+          },
+          {
+            "institut": "YouGov",
+            "datum": "2026-10-20",
+            "wert": 28.0
+          },
+          {
+            "institut": "pollytix",
+            "datum": "2026-10-20",
+            "wert": 29.0
+          },
+          {
+            "institut": "Allensbach",
+            "datum": "2026-10-22",
+            "wert": 27.0
+          },
+          {
+            "institut": "Forschungsgruppe Wahlen",
+            "datum": "2026-10-23",
+            "wert": 26.0
+          },
+          {
+            "institut": "Verian (Emnid)",
+            "datum": "2026-10-23",
+            "wert": 28.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-10-24",
+            "wert": 30.0
+          },
+          {
+            "institut": "Forsa",
+            "datum": "2026-10-27",
+            "wert": 27.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-10-27",
+            "wert": 29.5
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-10-31",
+            "wert": 29.0
+          },
+          {
+            "institut": "Forsa",
+            "datum": "2026-11-03",
+            "wert": 26.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-11-03",
+            "wert": 28.0
+          },
+          {
+            "institut": "Infratest dimap",
+            "datum": "2026-11-05",
+            "wert": 27.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-11-07",
+            "wert": 29.0
+          },
+          {
+            "institut": "Forsa",
+            "datum": "2026-11-10",
+            "wert": 27.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-11-10",
+            "wert": 28.5
+          },
+          {
+            "institut": "Ipsos",
+            "datum": "2026-11-11",
+            "wert": 27.0
+          },
+          {
+            "institut": "Forschungsgruppe Wahlen",
+            "datum": "2026-11-13",
+            "wert": 28.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-11-14",
+            "wert": 28.0
+          },
+          {
+            "institut": "Forsa",
+            "datum": "2026-11-17",
+            "wert": 26.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-11-17",
+            "wert": 28.0
+          },
+          {
+            "institut": "YouGov",
+            "datum": "2026-11-17",
+            "wert": 29.0
+          },
+          {
+            "institut": "Verian (Emnid)",
+            "datum": "2026-11-20",
+            "wert": 28.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-11-21",
+            "wert": 28.0
+          }
+        ]
       }
     },
     {
