@@ -82,3 +82,16 @@ test("Verfassungsschutz: Rechtsstand und alle Schritte mit Quellen", async ({ pa
   await expect(page.locator("#tabelle-vs tbody tr")).toHaveCount(5);
   await expect(page.locator("#verfassungsschutz .quelle a").first()).toHaveAttribute("href", /vg-koeln\.nrw\.de/);
 });
+
+test("Diagramme der Parteiseite: Kennzeichen, Einheit, Zeitraum und Stand", async ({ page }) => {
+  await page.goto("/partei.html");
+  await expect(page.locator("#chart-wahlen rect").first()).toBeVisible();
+  await expect(page.locator("#bundestagswahlen .art")).toHaveText("Amtliche Ergebnisse");
+  await expect(page.locator("#wahlen-titel")).toHaveText(/^Bundestagswahlen \d{4}–\d{4}$/);
+  await expect(page.locator("#chart-wahlen text", { hasText: /^0 %$/ })).toHaveCount(1);
+  await expect(page.locator("#bundestagswahlen .quelle")).toContainText("Stand");
+  await expect(page.locator("#zeitleiste .art")).toHaveText("Chronik");
+  await expect(page.locator("#zeit-zeitraum")).toContainText("bis heute");
+  await expect(page.locator("#vorsitzende .art")).toHaveText("Chronik");
+  await expect(page.locator("#vorsitz-zeitraum")).toContainText("bis heute");
+});
