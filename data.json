@@ -1,5 +1,5 @@
 {
-  "erstellt": "2026-11-16T09:53+02:00",
+  "erstellt": "2026-11-23T09:53+02:00",
   "partei": "AfD",
   "ebenen": [
     {
@@ -23,21 +23,41 @@
       },
       "wahlergebnis": null,
       "wahltrend": {
-        "wert": 27.5,
+        "wert": 27.6,
         "delta": 0.1,
-        "stand": "2026-11-14"
+        "stand": "2026-11-21"
       },
       "umfragen": {
-        "stand": "2026-11-11T12:30:00+01:00",
+        "stand": "2026-11-21T18:49:22+01:00",
         "rows": [
           {
             "institut": "INSA",
-            "datum": "2026-11-10",
-            "wert": 28.5
+            "datum": "2026-11-21",
+            "wert": 28.0
+          },
+          {
+            "institut": "Verian (Emnid)",
+            "datum": "2026-11-20",
+            "wert": 28.0
           },
           {
             "institut": "Forsa",
-            "datum": "2026-11-10",
+            "datum": "2026-11-17",
+            "wert": 26.0
+          },
+          {
+            "institut": "YouGov",
+            "datum": "2026-11-17",
+            "wert": 29.0
+          },
+          {
+            "institut": "Forschungsgruppe Wahlen",
+            "datum": "2026-11-13",
+            "wert": 28.0
+          },
+          {
+            "institut": "Ipsos",
+            "datum": "2026-11-11",
             "wert": 27.0
           },
           {
@@ -46,24 +66,14 @@
             "wert": 27.0
           },
           {
-            "institut": "Verian (Emnid)",
-            "datum": "2026-10-23",
-            "wert": 28.0
-          },
-          {
-            "institut": "Forschungsgruppe Wahlen",
-            "datum": "2026-10-23",
-            "wert": 26.0
-          },
-          {
             "institut": "Allensbach",
             "datum": "2026-10-22",
             "wert": 27.0
           },
           {
-            "institut": "YouGov",
+            "institut": "pollytix",
             "datum": "2026-10-20",
-            "wert": 28.0
+            "wert": 29.0
           },
           {
             "institut": "GMS",
@@ -599,8 +609,14 @@
         "stand": null
       },
       "umfragen": {
-        "stand": null,
-        "rows": []
+        "stand": "2026-11-21T18:49:22+01:00",
+        "rows": [
+          {
+            "institut": "Infratest dimap",
+            "datum": "2026-11-04",
+            "wert": 21.0
+          }
+        ]
       }
     },
     {
@@ -628,8 +644,14 @@
         "stand": null
       },
       "umfragen": {
-        "stand": null,
-        "rows": []
+        "stand": "2026-11-21T18:49:22+01:00",
+        "rows": [
+          {
+            "institut": "INSA",
+            "datum": "2026-07-14",
+            "wert": 18.0
+          }
+        ]
       }
     },
     {
@@ -657,8 +679,24 @@
         "stand": null
       },
       "umfragen": {
-        "stand": null,
-        "rows": []
+        "stand": "2026-11-21T18:49:22+01:00",
+        "rows": [
+          {
+            "institut": "Infratest dimap",
+            "datum": "2026-11-15",
+            "wert": 18.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-10-16",
+            "wert": 21.0
+          },
+          {
+            "institut": "Forsa",
+            "datum": "2026-09-23",
+            "wert": 22.0
+          }
+        ]
       }
     },
     {
@@ -686,8 +724,14 @@
         "stand": null
       },
       "umfragen": {
-        "stand": null,
-        "rows": []
+        "stand": "2026-11-21T18:49:22+01:00",
+        "rows": [
+          {
+            "institut": "INSA",
+            "datum": "2026-08-19",
+            "wert": 17.0
+          }
+        ]
       }
     },
     {
@@ -715,8 +759,19 @@
         "stand": null
       },
       "umfragen": {
-        "stand": null,
-        "rows": []
+        "stand": "2026-11-21T18:49:22+01:00",
+        "rows": [
+          {
+            "institut": "Infratest dimap",
+            "datum": "2026-11-19",
+            "wert": 21.0
+          },
+          {
+            "institut": "INSA",
+            "datum": "2026-09-11",
+            "wert": 21.0
+          }
+        ]
       }
     }
   ]
